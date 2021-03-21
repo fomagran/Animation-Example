@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ElasticViewController: UIViewController {
     
     //MARK:Vars
     
